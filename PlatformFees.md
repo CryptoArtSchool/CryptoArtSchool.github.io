@@ -2,7 +2,7 @@
  
  ||**Primary Sales**| |**Secondary Sales**| | 
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
- |Artist|Platform|Artist|Platform|Collector
+ ||Artist|Platform|Artist|Platform|Collector
 **Async Art**|90%|10%|10%|1%|89%
 **SuperRare**|85%|15%|10%|--|90%
 **BAE**|80%|20%*|10%|--|90%

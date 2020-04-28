@@ -1,4 +1,4 @@
- The current fee structure for Primary (first sales) and Secondary (all sales after the first sale) for key #cryptoart platforms is as follows:
+ The current fee structure for Primary (first sales) and Secondary (all sales after the first sale) sales in the marketplace for key #cryptoart platforms is as follows:
  
  ||**Primary Sales**| |**Secondary Sales**| | 
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:

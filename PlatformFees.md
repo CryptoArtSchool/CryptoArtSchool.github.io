@@ -1,6 +1,6 @@
  The current fee structure for Primary (first sales) and Secondary (all sales after the first sale) for key #cryptoart platforms is as follows:
  
- |**Primary Sales**| |**Secondary Sales**| | 
+ ||**Primary Sales**| |**Secondary Sales**| | 
 :-----:|:-----:|:-----:|:-----:|:-----:|:-----:
  |Artist|Platform|Artist|Platform|Collector
 **Async Art**|90%|10%|10%|1%|89%
